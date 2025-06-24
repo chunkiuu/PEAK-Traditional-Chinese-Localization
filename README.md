@@ -1,4 +1,4 @@
-# PEAK-Traditional-Chinese-Localization
+# 《合力攻頂 PEAK》繁體中文化 PEAK Traditional Chinese Localization 
 《合力攻頂 PEAK》繁體中文化說明
 
 本繁體中文語言檔是基於嗶哩嗶哩用戶「華麗的小檸檬啊」提供的簡體中文漢化版本進行轉譯而來，並作出少量文字修改。
