@@ -1,0 +1,28 @@
+Medicinal Root=藥用人參
+Cooked Marshmallow=烤熟的棉花糖
+Blue Berrynana=藍莓香蕉
+Green Kingberry=綠色刺莓
+Remedy Fungus=治療真菌
+Pirate's Compass=海盜的指南針
+Yellow Winterberry=黃色冬季莓
+MORALE BOOST!!=士氣提升！
+Pink Berrynana=粉紅色的香蕉
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m$"=不能與失蹤的朋友點燃篝火！!\n\n$1 $2米
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n(.+) (\d+)m$"=不能與失蹤的朋友點燃篝火!\n\n$1 $2米\n$3 $4米
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n(.+) (\d+)m\n(.+) (\d+)m$"=不能與失蹤的朋友點燃篝火！!\n\n$1 $2米\n$3 $4米\n$5 $6米
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n(.+) (\d+)m\n(.+) (\d+)m\n(.+) (\d+)m$"=不能與失蹤的朋友點燃篝火！!!\n\n$1 $2米\n$3 $4米\n$5 $6米\n$7 $8米
+
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入了探險小隊</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 灰溜溜的逃走了</color>\n
+
+r:"^(.+)'s backpack$"=背包 $1
+r:"^Carry (.+)$"=攜帶 $1
+r:"^feed to (.+)$"=投喂 $1
+r:"^heal (.+)$"=治療 $1
+r:"^Drop (.+)$"=丟棄 $1
+Revive Scouts=覆活童子軍
+r:PEAKS SUMMITED: (\d+)=已攀登的山峰: $1
+<size\=125%>YOUR FRIENDS\nLEFT YOU TO DIE=<size\=125%>你的朋友們！把你留在那里等死！
+DEAD=死亡
+YOU PEAKED=你到達了頂峰
+

@@ -1,0 +1,156 @@
+THANKS FOR PLAYING!=感謝您的遊玩！
+Authenticating...=身份驗證...
+Gate Kiosk=登機口服務台
+Board Flight=登機
+FROM:\n<size\=170%>ACG\n=從：\n<size\=170%>ACG\n
+GATE:\n<size\=170%>7\n=門：\n<size\=170%>7\n
+START=開始
+BOARDING PASS=擴大通行證
+PASSENGER:\n<size\=170%>=乘客：\n<size\=170%>
+Tadpole Scout=蝌蚪童子軍
+REWARD:=報酬：
+TO:\n<size\=170%>LFG\n=到：\n<size\=170%>LFG\n
+The Island's default difficulty.=島嶼的默認難度。
+Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀巖需要少的耐力。\n饑餓增長較慢。\n沒有時間限制。
+Tenderfoot=新手
+ALPINE=高山
+STAY HUNGRY=保持饑渴
+	Putting a backpack on is a great way to carry additional items, which can make the difference between life and death!\n\n	HOWEVER, the more <color\=#61380a>Weight</color> you carry, the less stamina you'll have to climb! An experienced scout knows to pack everything they need... and nothing more!=	戴上背包是攜帶其他物品的好方法，這可以使生與死之間有所不同！\n\n\n但是，越多 <color\=#61380a>重量</color> 您隨身攜帶，您必須攀登的耐力越少！\n經驗豐富的童子軍知道打包他們需要的一切……僅此而已！
+LOADING...LOADING...LOADING...L=加載...加載...加載...L。
+Luggage=行李
+	Getting hurt isn't the only way for your <color\=#0f7f00>Stamina</color> to go downhill fast. As you climb, you'll find yourself experiencing <color\=#b58200>Hunger</color>, for which 10/10 experts recommend eating food.\n\n	Be cautious of eating plants from the wilderness! They could poison you and really mess up your day. If you have the option, choose a packaged snack from a corporation you trust!=	受傷並不是您的唯一方法 <color\=#0f7f00>耐力</color> 快速下坡。\n攀登時，您會發現自己正在經歷 <color\=#b58200>饑餓</color>，10/10專家建議吃食物。\n\n\n要謹慎吃曠野吃植物！\n他們可能會毒害您，並真正搞砸您的一天。\n如果您有選項，請從您信任的公司中選擇包裝零食！
+DON'T OVERPACK!=不要過度包裝！
+RULE 6=規則6
+RULE 7=規則7
+ \n<size\=30>(ACTUALLY, DON'T!)= \n<size\=30>（實際上，不要！）
+rope spool=一卷繩子
+pick up=撿起
+Backpack=背包
+Guidebook=指南
+Flip Page=翻閱頁面
+Open/Close=打開/關閉
+A Guide by\nScoutmaster Myres=童子軍Myres的指南\n由 嗶哩嗶哩-華麗的小檸檬啊 提供漢化支持
+How to Not Die=如何不死
+-Scoutmaster Myres=-梅雷斯童子軍隊長
+RULE 4=規則4
+	In a survival situation, one of the worst things that can happen is getting separated from the group. \n\n	Maintain constant communication whenever possible, and point out your next route in advance to avoid leaving a friend behind!=	在生存狀況下，可能發生的最糟糕的事情之一就是與小組分開。\n\n\n盡可能保持持續的溝通，並提前指出您的下一條路線，以免拋棄朋友！
+STAY ALERT, STAY ALIVE!=保持警惕，保持活力！
+	You can help from below, too! Crouch down and let a fellow scout stand on your head, then jump to give them a boost!=	您也可以從下面提供幫助！\n蹲下，讓同伴童子軍站在你的頭上，然後跳下來給他們一個提升！
+<sprite\=110 tint\=1> EMPTY-HANDED: Help up friend=<sprite\=110 tint\=1> 空手：幫助朋友
+	Nothing is more important than sticking together as a team!\n\n	When your hands are empty, reach out to a friend who's mid-climb and help them reach the next ledge safely!=	沒有什麽比團隊團結一致更重要的了！\n\n\n當您的手是空的時，請與一個爬坡的朋友聯系，並幫助他們安全到達下一個壁架！
+RULE 3=規則3
+ALWAYS LEND A HAND!=總是伸出手！
+<sprite\=51 tint\=1>while climbing: Lunge=<sprite\=51 tint\=1>攀爬時：弓步
+<sprite\=69 tint\=1>in air: Grab wall=<sprite\=69 tint\=1>在空中：抓墻
+Hold<sprite\=109 tint\=1>empty-handed: Grab wall=按住<sprite\=109 tint\=1>空手：抓住墻
+	Obviously, you're not going to make it up a mountain without climbing.\n\n	You can climb almost any surface, so long as you have the stamina!=	顯然，您不會在不攀登的情況下彌補這座山。\n\n\n只要您擁有耐力，您就可以爬上幾乎任何表面！
+RULE 2=規則2
+KEEP MOVING (UP)!=繼續前進！
+	Keep in mind that jumping while sprinting will tire you out quickly! Take a quick rest if you need to - you won't do anyone any favors by passing out on the mountain!=	請記住，在沖刺時跳躍會很快疲勞！\n如果需要的話，請快速休息 - 您不會在山上散發出任何幫助！
+	See a gap in the trail, or a prickly thorn? Go ahead and JUMP over it!=	在小徑上看到差距，還是刺刺？\n繼續跳過它！
+<sprite\=51 tint\=1>Sprint=<sprite\=51 tint\=1>短跑
+	Time is of the essence in the wilderness, so get running towards your destination!=	時間在荒野中至關重要，所以要奔向目的地！
+<sprite\=115 tint\=1>Walk=<sprite\=115 tint\=1>走
+<sprite\=108 tint\=1>Look around=<sprite\=108 tint\=1>環顧四周
+	First things first: you've gotta get to HIGH GROUND if you wanna be spotted. Nobody ever got rescued off of a mysterious island by loitering around on the beach. So find the nearest peak, and start making your way there.=	第一件事：如果您想被發現，您就必須進入高地。\n沒有人在海灘上遊蕩，從一個神秘的島嶼上救出。\n因此，找到最近的山峰，然後開始在那里走。
+RULE 1=規則1
+KEEP MOVING!=繼續前進！
+NEVER ABANDON A FRIEND IN NEED!=永遠不要放棄有需要的朋友！
+RULE 0\n=規則0\n
+	Ahh....................................................................................................................................................................... nature.\n\n	What greater ecstacy in this life than crunching down on a succulent granola bar while the wind blows across your scalp atop one of this world's many miraculous mountaintops?\n\n	But of course, nature is not just some fairground amusement, some attraction we might enjoy leisurely from behind glass! Indeed, nature is as dangerous as it is beautiful. And the view is much better from 10,000 feet up than 6 feet under! (Dead)\n\nIn my 40 years as a Scoutmaster, I've accumulated a variety of rules for surviving dangerous wilderness situations that should help you out in the unlikely event one of your scout outings goes horribly wrong. But of course, all of these rules pale in comparison to the guiding rule of all scoutdom...=	啊.......................................................................................................................................................................................................................................................................................\n\n在這一生中，在這個世界上眾多奇跡般的山頂上的頭皮上吹過頭皮上的風吹拂，在肉質的格蘭諾拉麥片棒上倒下比在肉質肉質的格蘭諾拉麥片棒上倒下更大的狂喜？\n\n\n但是，當然，大自然不僅是一些集市的娛樂，而且我們可能會從玻璃後面悠閒地享受一些吸引力！\n確實，大自然既危險又美麗。\n從10,000英尺高的6英尺處，景色要好得多！\n（死的）\n\n在我擔任童軍大師的40年中，我積累了各種各樣的規則，這些規則可以在危險的荒野情況下，這應該在不太可能的事件中為您提供幫助，這是您的偵察郊遊之一是非常錯誤的。\n但是，當然，與所有童軍的指導規則相比，所有這些規則都蒼白。
+PREFACE=前言
+	An effective scout keeps an eye on their <color\=#0f7f00>Stamina Bar</color> at all times. If it runs out, you'll be temporarily unable to run, jump, and most importantly, climb. \n\n	Worst case scenario, you could fall off the mountain to your death, which is the worst thing to fall off to!=	有效的偵察兵一直注視著他們 <color\=#0f7f00>耐力酒吧</color> 隨時。\n如果用完了，您將無法暫時運行，跳躍，最重要的是，攀登。\n\n\n最壞的情況，您可能會從山上掉下來死亡，這是最糟糕的事情！
+	As you make your way through the untamed wilderness, it's inevitable that you'll get some scratches and bumps. \n\n	The more hurt you get, the less <color\=#0f7f00>Stamina</color> you'll have to run and climb, so tend to your injuries as soon as possible with a bandage or a healing herb!=	當您穿越未馴服的荒野時，您不可避免地會刮擦和顛簸。\n\n\n您受到的傷害越多，越少 <color\=#0f7f00>耐力</color> 您必須跑步和攀爬，因此繃帶或治愈的草藥會盡快受傷！
+LIFE IS PAIN!=生活就是痛苦！
+RULE 5=規則5
+KEEP AN EYE OUT!=請注意！
+RULE 8=規則8
+IN CONCLUSION=綜上所述
+	Exploring the wilderness is a dangerous activity that can kill you instantly - but so is everything in this world worth doing, like falling in love.\n\nNever forget to be a good steward towards our beautiful world, and once again, never forget:=	探索荒野是一項危險的活動，可以立即殺死您 - 但這個世界上的一切值得做，就像墜入愛河一樣。\n\n\n永遠不要忘記成為我們美麗世界的好管家，再也不會忘記：
+ing Location=ping位置
+Bingus=Binger
+CONTROLS=控制
+SHORE=海岸
+
+++++++++++++
+NO DATA=沒有數據
+DEV_MESSAGE=開發信息
+LOADING..=加載中..
+Sports Drink=運動飲料
+Trail Mix=混合堅果
+drink=喝
+stash<br>Sports Drink=裝入<br>運動飲料
+stash<br>Conch=裝入<br>海螺
+stash<br>Coconut=裝入<br>椰子
+wear<br> Backpack=背起<br> 背包
+take<br>Compass=拿取<br> 指南針
+Conch=海螺
+Coconut=椰子
+Energy Drink=能量飲料
+Bandages=繃帶
+Peak=頂峰
+Lantern=燈籠
+Light Lantern=燈籠
+Flare=煙花信號棒
+light=光
+Compass=指南針
+Bugle=軍號
+Green Crispberry=綠色酸漿果
+Blowgun=吹箭筒
+fire=火
+Piton=鉤索錨點
+shoot=射擊
+set=放
+set piton=設置鉤索錨點
+Big Luggage=大行李
+First Aid Kit=急救藥箱
+heal injuries=治愈傷勢
+Explorer's Luggage=探險家的行李箱
+spool=繩索
+tie knot=系繩
+Rope=繩索
+Grab=抓住
+Bing Bong=叮當
+Big Luggage=大行李箱
+rope cannon=繩索槍
+Coconut Half=一半椰子
+r:"^PEAKS SUMMITED: (.+)$"=山峰登頂：$1
+???=???
+Receive 5 Morale Boosts from campfires.=從篝火中獲得5個士氣提升。
+Have a friend escape the island without you.=讓一個朋友沒有你逃離島嶼。
+Climb past the SHORE.=爬過海岸。
+Climb past the TROPICS.=爬過熱帶地區。
+Climb past the ALPINE.=爬過高山。
+Climb past the CALDERA.=爬過火山口。
+Reach the PEAK.=到達頂峰。
+Cook 20 meals at campfires.=在篝火旁煮20頓飯。
+Place 10 pitons.=放置10個鉤索錨點。
+Restore 200 total poison by using items. =使用物品解除200點的毒性值 
+Eat 5 different berries in a single expedition.=在一次探險中吃5種不同的漿果。
+Obtain a mystical item.=獲得神秘的物品。
+Escape the island in a solo expedition.=在一次獨奏探險中逃脫島嶼。
+Resurrect 3 scouts in a single expedition. =在一次探險中覆活3個童子軍。 
+Escape the island without taking fall damage.=逃離島嶼而不會受到跌倒的傷害。
+Escape the island without placing anything on the mountain.=逃離島嶼，而無需將任何東西放在山上。
+Climb 50m upwards without touching the ground.=向上爬50m，而無需接觸地面。
+Read all of Scoutmaster Myres's journal entries.=閱讀所有童兵Myres的日記條目。
+Open 15 luggages in a single expedition.=在一次探險中打開15個行李。
+Climb 5000m total.=總共攀登5000m。
+Heal an unconscious friend with an item to save them from death.=用一件物品治愈一個無意識的朋友，以使他們免於死亡。
+Place 100m of rope in a single expedition.=將100m的繩子放在一次探險中。
+Have a 1-on-1 with the Scoutmaster.=與球探大師進行1對1。
+Reach the top of a really big tree.=到達一棵非常大的樹的頂部。
+Play the bugle for a capybara.=‌為水豚吹響號角。
+Escape the island without ever losing consciousness.=在不失去意識的情況下逃離島嶼。
+Heal your friends for 100 points of injury in a single expedition.=在一次探險中，為你的朋友治愈100點傷害。
+Eat four different non-toxic mushrooms in a single expedition.=在一次探險中食用四種不同的無毒蘑菇。
+Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg.=在煮熟並吃掉半個椰子、一塊蜂巢、一顆黃色的冬莓和一個雞蛋後逃離島嶼。
+Escape the island without eating any packaged food.=不食用任何包裝食品，逃離島嶼。
+Help Bing Bong escape the island.=幫助Bing Bong逃脫島嶼。
+Escape the island in under an hour.=在一個小時內逃離島嶼。
+++++++++
+Cluster Shroom=蘑菇
+Red Crispberry=紅脆莓
+spectating:=正在觀看：
+YOURSELF=你自己
+

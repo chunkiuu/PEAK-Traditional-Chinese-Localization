@@ -1,0 +1,7 @@
+DAY ONE=第一天
+Day One=第一天
+Day Two=第二天
+Day Three=第三天
+Day Four=第四天
+Day Five=第五天
+Day Six=第五天

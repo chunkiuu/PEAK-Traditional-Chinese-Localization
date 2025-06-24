@@ -1,0 +1,103 @@
+v.1.2.a=嗶哩嗶哩-華麗的小檸檬啊 提供漢化支持 - \nGithub: chunkiuu (繁體中文翻譯)-遊戲版本 V.1.2.a
+v.1.3.a=<color\=#FFFF19>(嗶哩嗶哩-華麗的小檸檬啊 提供漢化支持 - \nGithub: chunkiuu (繁體中文翻譯)-遊戲版本 V.1.3.a)</color>
+v.1.3.b=<color\=#FFFF19>(嗶哩嗶哩-華麗的小檸檬啊 提供漢化支持 - \nGithub: chunkiuu (繁體中文翻譯)-遊戲版本 V.1.3.b)</color>
+v.1.4.a=<color\=#FFFF19>(嗶哩嗶哩-華麗的小檸檬啊 提供漢化支持 - \nGithub: chunkiuu (繁體中文翻譯)-遊戲版本 V.1.4.a)</color>
+++++++++
+Thank you for playing PEAK! Remember to never leave a fellow scout behind!=謝謝您遊玩PEAK！\n記住永遠不要把童子軍留在後面！
+Thank you for playing PEAK! Pro tip, tapping SPRINT while climbing makes you do a LUNGE!=感謝您玩PEAK！\n小提示，攀爬時輕觸SPRINT鍵會讓你做出跳躍動作。
+We're investigating crashes, disconnects and other major issues! Thanks for your patience <3=我們正在調查崩潰、斷線和其他重大問題！感謝您的耐心 <3
+<sprite\=111 tint\=1>:Ping Location=<sprite\=111 tint\=1>：ping位置
+Granola Bar=格蘭諾拉能量棒
+Scout Cookies=童子軍餅幹
+Ancient Luggage=古老的行李
+anti-rope cannon=反向繩索炮
+campfire=營火
+cook=烹飪
+Marshmallow=棉花糖
+TROPICS=熱帶
+
+Ancient Statue=古代雕像
+Open=打開
+Pandora's Lunchbox=潘多拉的午餐盒
+open?=打開？
+
+LOADING...LO=加載... LO
+Airline Food=航空食品
+Big Lollipop=大棒棒糖
+lick=舔
+Button Shroom=紐扣蘑菇
+Antidote=解毒劑
+Cure-All=治愈全部
+Vine=藤曼
+Yellow Berrynana=黃色漿果香蕉
+Berrynana Peel=發莓的香蕉皮
+Scorchberry=辣椒
+Purple Kingberry=紫色金莓
+Chubby Shroom=胖乎乎的棚子
+Beehive=蜂窩
+Heat Pack=熱敷袋
+heat up=加熱
+Orange Winterberry=橙色冬莓
+piton=鉤索錨點
+TIMELINE=時間表
+YOU PEAKED=你達到頂峰
+<size\=125%>YOUR FRIENDS\nLEFT YOU TO DIE=<size\=125%>你的朋友讓你死了
+0m=0m
+SmashyNick\n=粉碎尼克\n
+SCOUTING REPORT=童子軍報告
+YOUR BODY WAS\n<size\=125%>NEVER FOUND=你的身體是\n<size\=125%>從未發現
+TIME\n=時間\n
+NEXT=下一個
+DEAD=死亡
+1024m=1024m
+NEW BADGES=新徽章
+you are a ghost\n\n\n=你是鬼\n\n\n
+get resurrected at the statue!=在雕像上覆活！
+1046m=1046m
+NEW LOOK!=新外觀！
+NEW HAT!=新帽子！
+waiting for all players...=等待所有玩家...
+Yellow Crispberry=金黃脆莓
+Bugle Shroom=號角蘑菇
+Shelf Fungus=膨化真菌
+Chain Launcher=鐵鏈發射器
+Chain=鐵鏈
+++++++++++
+
+Windowed=窗口模式
+THE FOG RISES...=迷霧升起...
+Bugle of Friendship=友誼號角
+play=遊玩
+Scroll=滾動
+Torn Page=撕掉的紙張
+Inspect=檢查
+Faerie Lantern=仙境燈籠
+Snuff Lantern=鼻煙燈
+CALDERA=火山口
+Egg=鳥蛋
+THE KILN=窯爐
+PEAK=頂峰
+
+Ready for a greater challenge? Ascents add modifiers that make summiting the PEAK more difficult.\n\nSet your Ascent Level at the Airport Kiosk!=準備面臨更大的挑戰了嗎？\n上升添加修飾符，使峰頂更加困難。\n\n\n將您的上升級別設置在機場亭！
+ASCENTS UNLOCKED=更高的難度已解鎖
+NEW SASH!=新的腰帶！
+PROMOTED TO;=晉升為
+Ascent 1 UNLOCKED!=難度1解鎖！
+NEW FIT!=新衣服！
+PRESS ANY BUTTON TO CONTINUE=按任何按鈕繼續
+TADPOLE SCOUT=蝌蚪偵察員
+Ascent 1=難度1
+Fall Damage is greater.=跌落傷害更大。
+Rabbit Scout=兔子童子軍
+anti-rope spool=防退卷線軸
+0.75m=0。Akkha
+BONUS RULE 1=附加1
+SCAN YOUR SHROOMS!=掃描你的蘑菇！
+GATHER 'ROUND THE FIRE!=聚集在大火上！
+BONUS RULE 2=附加規則2
+	If you find a nice place to light a campfire, make sure to bring your friends close by first! The fire brings something even better than heat and cooked food... and that's motivation!=	如果您找到一個點燃篝火的好地方，請確保首先將您的朋友接近！\n大火帶來的東西比熱和煮熟的食物更好……這就是動力！
+BONUS RULE 3=附加規則3
+EMBRACE THE OCCULT!=擁抱神秘！
+	Wuh woh! One of our scouts steppedon a sea urchin and died!!! I was abovtto get really sad... but one of the otherkids touched a weird statve, andbrought their friend back to life!= 嗚呼!我們的一名小偵察員踩到了一個海膽，結果不幸身亡!\n我幾乎要難過了但另一個孩子碰了碰一個奇怪的雕像竟然讓他們的朋友起死回生!
+
+	Seems like this island bends the rulesof mortality itself... how wacky!Perhaps something else interestingmight happen if we use a statue wheneveryone is still alive...= 似乎這座島顛覆了關於生死的常規……\n太古怪了!或許，如果我們趁所有人都健在時使用這座雕像，還會發生一些有趣的事情。
