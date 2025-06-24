@@ -17,7 +17,7 @@ https://space.bilibili.com/107001167
 
 安裝方法：
 
-將下載的語言檔（整個資料夾的內容）放入遊戲本機檔案的根目錄（與主程式 PEAK.exe 在同一層的資料夾）。
+將下載的語言檔 PEAK.Traditional.Chinese.Localization.v1.0.zip（整個資料夾的內容）解壓後放入遊戲本機檔案的根目錄（與主程式 PEAK.exe 在同一層的資料夾）。
 
 
 注意事項：
